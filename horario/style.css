@@ -1,0 +1,46 @@
+body{
+	text-align: center;
+}
+
+.horario{
+	text-align: justify;
+}
+
+.red{
+	background-color: rgba(255, 41, 44, 0.7);
+}
+.algebra{
+	background-color: rgba(45, 119, 44, 0.7);
+}
+.calculo{
+	background-color: rgba(45, 119, 214, 0.7);
+}
+.gestion{
+	background-color: rgba(140, 255, 7, 0.7);
+}
+.rrhh{
+	background-color: rgba(160, 63, 236, 0.7);
+}
+.etica{
+	background-color: rgba(160, 142, 35, 0.7);
+}
+.proyecto{
+	background-color: rgba(5, 255, 182, 0.7);
+}
+
+table{
+	border: 1px solid black;
+}
+tr{
+	border: 3px solid black;
+}
+th{
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+.td1{
+	border-right: 1px solid black;
+}
+p{
+	height: 50px;
+}
